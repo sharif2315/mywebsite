@@ -1,0 +1,58 @@
+  body {
+    background-color:#F8F8F8!important;
+  }
+
+  #profile-wrapper {
+    text-align: center;
+  }
+
+  #profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #nav-item {
+    font-size: 20px;
+  }
+
+  #card-row {
+
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  #projects-header {
+    padding-bottom: 25px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    font-weight: bold;
+  }
+
+  #contact-header {
+    padding-bottom: 25px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    font-weight: bold;
+  }
+
+  #contact-info {
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+
+  #email, #mobile, #linkedin {
+    padding: 20px;
+  }
